@@ -1,0 +1,281 @@
+
+.room_box{
+    box-shadow: 0 1px 15px 1px rgb(69 65 78 / 10%);
+    border-radius:4px;
+}
+.room_box_height {
+    height: 160px;
+    width: 160px;
+}
+
+.room_box_fix {
+    height: 14px;
+
+}
+.room_box_fix1 {
+    height: 21px;
+
+}
+.room_box_fix3 {
+    height: 14px;
+
+}
+
+.a_icon_1{
+    font-size: 15px!important; 
+
+
+}
+
+
+.breakfast{
+    background: #FFB52E !important;
+}
+.white_text{
+    color: #fff !important;
+}
+
+.room_dirty{
+
+    background: #ff0000 ;
+}
+.room_clean{
+    background: #2799fc !important;
+}
+.room_unassigned{
+
+    background: #fad12f;
+}
+.room_cleaning_in_progress{
+
+    background:#83cdfd;
+}
+.room_inspection_in_progress{
+
+    background: #9cdeba;
+}
+.room_inspected{
+    background: #4ac382;
+}
+.room_no_cleaning_desired{
+
+    background: #B2BEB5;
+}
+.room_no_cleaning_today{
+
+    background: #ff8800;
+}
+.myAbsolute-Center {
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+
+.box_unassigned{
+    height: 23px;
+    width:  23px;
+    background-color: #fad12f; 
+}
+.box_cleaning_in_progress{
+    height: 23px;
+    width:  23px;
+    background-color: #83cdfd; 
+}
+
+.box_dirty{
+    height: 23px;
+    width:  23px;
+    background-color: #ff0000;
+}
+.box_clean{
+    height: 23px;
+    width:  23px;
+    background-color: #2799fc; 
+}
+
+.box_inspection_in_progress{
+    height: 23px;
+    width:  23px;
+    background-color: #9cdeba; 
+}
+.box_inspected{
+    height: 23px;
+    width:  23px;
+    background-color: #4ac382;
+}
+.box_no_cleaning_desired{
+    height: 23px;
+    width:  23px;
+    background-color: #B2BEB5;; 
+}
+.box_no_cleaning_today{
+    height: 23px;
+    width:  23px;
+    background-color: #ff8800;
+}
+.room_box_text{
+    color: black;
+}
+
+.room_text_center{
+    text-align: center;
+}
+.room_text_right{
+    text-align: right;
+}
+.room_text_left{
+    text-align: left;
+}
+.room_padding_right{
+    padding-right: 4px;
+}
+
+.room_padding_top{
+    padding-top: 4px;
+}
+.room_padding_bottom{
+}
+.room_text_small{
+    font-size: 10px;
+    font-weight: 100;
+}
+.room_small_text_margin{
+    margin-bottom: 0px !important; 
+    margin-top: 0px !important; 
+    margin-right: 0px !important;
+    margin-right: 0px !important;
+
+    padding left:  0px !important; 
+
+    padding-bottom: 0px  !important; 
+}
+.room_display_block{
+    display: inline;   
+}
+.room_no_font{
+    font-size: 16px;
+    font-weight: 500;
+}
+.room_box_cleanner_font{
+    font-size: 8px;
+    font-weight: 300;
+}
+.room_box_p_status_font{
+    font-size: 10px;
+    font-weight: 300;
+    font-weight: bold;
+}
+
+.a_icon{
+    font-size: 20px;
+}
+
+.room_box_ststus_font{
+    font-size: 12px;
+    font-weight: 300;
+    font-weight: bold;
+}
+.padding_top_none{
+    padding top: 0px !important;
+    margin-top: 0px !important;
+
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.padding_none{
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding top: 0px;
+    padding-right: 0px;
+}
+.visblity_visible{
+    visibility: visible;
+}
+.visblity_hidden{
+    visibility: hidden;
+}
+
+
+.transparent {
+
+}
+.room_detail_icon{
+    font-size:  30px;
+}
+.room_task_header{
+    font-size:  22px;
+    font-weight: 100;
+    color: black;
+}
+.room_detail_box{
+    background: #ffffff;
+    box-shadow: 0 1px 15px 1px rgb(69 65 78 / 10%);
+    border-radius:1px;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+.black_text {
+    color: black;
+}
+.center_div1 {
+    margin: auto;
+    width: 50%;
+
+}
+.only_one_pixel{
+    margin-right:   4px;
+}
+.minus_padding{
+    margin-left: 0px!important;
+    padding-left: 0px !important;
+}
+.none_padding{
+    margin: 0px!important;
+    padding: 0px !important;
+
+}
+.div_v_a{
+    display: inline-block!important;
+    height: 100%!important;
+    vertical-align: middle!important;
+}
+.line{
+    border-top:2px solid #EBECF0;
+    width:100%
+}
+.assign_background {
+    background-color: #00BCEB !important;
+    color: white !important;
+}
+.assign_background2 {
+    background-color: #A8F9EA !important;
+    color: white !important;
+}
+/* Housekeeping End */
+
+.box_assign{
+    height: 12px;
+    width: 12px;
+    background-color: #00BCEB; 
+}
+.box_unassign{
+    height: 12px;
+    width: 12px;
+    background-color: white; 
+}
+.box_other_user_assign{
+    height: 12px;
+    width: 12px;
+    background-color: #A8F9EA; 
+}
+.mintus_font{
+    font-size: 10px;
+}
+.border_mintus{
+    border:1px solid #808080;
+}
+
+.setting_box_bg{
+    background-color: blanchedalmond;
+}
