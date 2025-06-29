@@ -69,7 +69,7 @@ We welcome contributions – whether it’s a bug report, a feature request or a
 
 ## 📃 License
 
-This project is licensed under the [GNU AGPLv3 License](LICENSE).  
+This project is licensed under the [GNU AGPLv3 License](license).  
 That means: You can use, modify and share it freely – as long as your modified version stays open as well.
 
 ---
