@@ -10,7 +10,7 @@ Entwickelt von einem Hotel – für Hotels.
 
 ---
 
-## ✨ Was ist HolidayFriend?
+## ✨ Was ist Qualityfriend?
 
 Qualityfriend hilft Hotels dabei, Papierkram zu reduzieren, Teamarbeit zu verbessern und wiederkehrende Abläufe zu strukturieren, ohne teure Software oder komplizierte Einrichtung.
 
