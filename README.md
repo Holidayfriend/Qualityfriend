@@ -1,8 +1,8 @@
-# HolidayFriend.solutions
+# Qualityfriend - The simple quality tool – built by a hotelier for hoteliers.
 
 💡 Your digital assistant for small and family-run hotels – now open source!
 
-**HolidayFriend.solutions** is a modular tool designed to simplify daily hotel operations:  
+**Qualityfriend** is a modular tool designed to simplify daily hotel operations:  
 checklists, handovers, recruiting, housekeeping, and more.  
 Built by a hotel – for hotels.
 
@@ -12,7 +12,7 @@ Built by a hotel – for hotels.
 
 ## ✨ What is HolidayFriend?
 
-HolidayFriend.solutions helps hotels reduce paperwork, improve teamwork, and bring structure to recurring processes – without expensive software or complicated setup.
+Qualityfriend helps hotels reduce paperwork, improve teamwork, and bring structure to recurring processes – without expensive software or complicated setup.
 
 Whether you’re managing a 10-room family hotel or coordinating a housekeeping team, HolidayFriend gives you clarity, flexibility, and control.
 
@@ -84,7 +84,7 @@ But why keep it to ourselves?
 
 > **We believe that small and medium-sized hotels deserve great digital tools – without high costs or complexity.**
 
-That’s why HolidayFriend is now open source.  
+That’s why Qualityfriend is now open source.  
 Most of its features are free to use – because software should support hospitality, not drain its resources.
 
 If it helps us, maybe it can help you too.
