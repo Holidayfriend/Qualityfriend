@@ -10,12 +10,12 @@ Creato da un hotel – per altri hotel.
 
 ---
 
-## ✨ Cos’è HolidayFriend?
+## ✨ Cos’è Qualityfriend?
 
 HolidayFriend.solutions aiuta gli hotel a ridurre la burocrazia, migliorare il lavoro di squadra e strutturare i processi ripetitivi, senza software costosi o installazioni complesse.
 
 Che tu gestisca un piccolo hotel con 10 camere o un team di housekeeping:  
-HolidayFriend ti offre chiarezza, flessibilità e controllo.
+Qualityfriend ti offre chiarezza, flessibilità e controllo.
 
 ---
 
