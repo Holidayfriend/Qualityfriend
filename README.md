@@ -6,15 +6,14 @@
 checklists, handovers, recruiting, housekeeping, and more.  
 Built by a hotel – for hotels.
 
-📘 This README is also available in: [🇩🇪 Deutsch](README.de.md) | [🇮🇹 Italiano](README.it.md)
 
 ---
 
-## ✨ What is HolidayFriend?
+## ✨ What is Qualityfriend?
 
 Qualityfriend helps hotels reduce paperwork, improve teamwork, and bring structure to recurring processes – without expensive software or complicated setup.
 
-Whether you’re managing a 10-room family hotel or coordinating a housekeeping team, HolidayFriend gives you clarity, flexibility, and control.
+Whether you’re managing a 10-room family hotel or coordinating a housekeeping team, qualityfriend gives you clarity, flexibility, and control.
 
 ---
 
