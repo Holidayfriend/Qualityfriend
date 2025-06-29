@@ -1,4 +1,4 @@
-# Qualityfriend - Lo strumento di qualità semplice – creato da un albergatore per albergatori.
+# Qualityfriend - Lo strumento di qualità semplice, creato da un albergatore per albergatori.
 
 💡 Il tuo assistente digitale per piccoli hotel a conduzione familiare – ora open source!
 
