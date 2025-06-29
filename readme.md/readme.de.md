@@ -6,7 +6,7 @@
 Checklisten, Übergaben, Recruiting, Housekeeping und mehr.  
 Entwickelt von einem Hotel – für Hotels.
 
-📘 Diese README gibt es auch auf: [🇬🇧 English](README.md) | [🇮🇹 Italiano](README.it.md)
+📘 Diese README gibt es auch auf: [🇬🇧 English](README.md) | [🇮🇹 Italiano](readme.md/readme.it.md)
 
 ---
 
