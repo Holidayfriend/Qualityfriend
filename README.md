@@ -92,4 +92,5 @@ If it helps us, maybe it can help you too.
 
 Made with ❤️ by [Weihrerhof Hotel](https://www.weihrerhof.com)  
 More at [holidayfriend.solutions](https://holidayfriend.solutions)
+Contact us at support@holidayfriend.solutions
 
